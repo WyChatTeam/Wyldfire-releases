@@ -63,4 +63,4 @@ Each release will include:
 - Join our [Discord](https://discord.gg/wyvernchat) for announcements
 - Follow [@WyvernChat](https://twitter.com/wyvernchat) on Twitter
 
-[Unreleased]: https://github.com/YOUR_ORG/Wyldfire-releases/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/WyChatTeam/Wyldfire-releases/compare/v1.0.0...HEAD
