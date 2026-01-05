@@ -1,4 +1,4 @@
-# 🔥 Wyldfire
+# Wyldfire
 
 <div align="center">
   <img src="assets/wyldfire-1024x1024.png" alt="Wyldfire Logo" width="200" height="200" />
