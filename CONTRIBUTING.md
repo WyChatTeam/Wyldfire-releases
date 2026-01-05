@@ -10,7 +10,7 @@ Wyldfire is currently in **closed development**. The source code is not yet publ
 
 ### 🐛 Report Bugs
 
-If you encounter a bug, please [open an issue](https://github.com/YOUR_ORG/Wyldfire-releases/issues/new) with:
+If you encounter a bug, please [open an issue](https://github.com/WyChatTeam/Wyldfire-releases/issues/new) with:
 
 - A clear, descriptive title
 - Steps to reproduce the issue
@@ -23,13 +23,13 @@ If you encounter a bug, please [open an issue](https://github.com/YOUR_ORG/Wyldf
 Have an idea for a new feature? We'd love to hear it! Please:
 
 1. Check if the feature has already been requested
-2. [Open a discussion](https://github.com/YOUR_ORG/Wyldfire-releases/discussions/new) to propose your idea
+2. [Open a discussion](https://github.com/WyChatTeam/Wyldfire-releases/discussions/new) to propose your idea
 3. Describe the problem it solves and how it would work
 
 ### 💬 Join the Community
 
 - **Discord**: Join our [Discord server](https://discord.gg/wyvernchat) for real-time discussions
-- **Discussions**: Use [GitHub Discussions](https://github.com/YOUR_ORG/Wyldfire-releases/discussions) for longer-form conversations
+- **Discussions**: Use [GitHub Discussions](https://github.com/WyChatTeam/Wyldfire-releases/discussions) for longer-form conversations
 
 ## Future Open Source
 
@@ -63,6 +63,6 @@ We are committed to providing a welcoming and inclusive environment. Please be r
 If you have questions about contributing, feel free to:
 
 - Ask in our [Discord server](https://discord.gg/wyvernchat)
-- Open a [discussion](https://github.com/YOUR_ORG/Wyldfire-releases/discussions)
+- Open a [discussion](https://github.com/WyChatTeam/Wyldfire-releases/discussions)
 
 Thank you for helping make Wyldfire better! 🙏
