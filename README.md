@@ -9,8 +9,9 @@
   
   [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/wyvernchat)
   [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-lightgrey)](https://wyldfire.ai)
+  [![License](https://img.shields.io/badge/license-proprietary-lightgrey)](LICENSE)
   
-  [Website](https://wyldfire.ai) • [Downloads](#-downloads) • [Features](#-features) • [Documentation](#-documentation) • [Discord](https://discord.gg/wyvernchat)
+  [Website](https://wyldfire.ai) • [Downloads](#-downloads) • [Features](#-features) • [Documentation](#-documentation) • [Discord](https://discord.gg/wyvernchat) • [Privacy](https://wyldfire.ai/privacy) • [Terms](https://wyldfire.ai/terms)
 </div>
 
 ---
@@ -229,6 +230,15 @@ Yes! Wyldfire works completely offline for character management and local chats.
 
 ---
 
+## ⚖️ Legal
+
+Wyldfire is proprietary software — see [LICENSE](LICENSE) for the full terms. This repository distributes compiled release binaries only; it is not a grant of rights to Wyldfire's source code.
+
+- [Terms of Service](https://wyldfire.ai/terms)
+- [Privacy Policy](https://wyldfire.ai/privacy)
+
+---
+
 ## 🙏 Acknowledgments
 
 - Built by the [Featherless AI](https://featherless.ai) team
@@ -243,6 +253,9 @@ Yes! Wyldfire works completely offline for character management and local chats.
     <a href="https://wyldfire.ai">Website</a> •
     <a href="https://discord.gg/wyvernchat">Discord</a> •
     <a href="https://app.wyvern.chat">WyvernChat</a> •
-    <a href="https://featherless.ai">Featherless AI</a>
+    <a href="https://featherless.ai">Featherless AI</a> •
+    <a href="https://wyldfire.ai/privacy">Privacy</a> •
+    <a href="https://wyldfire.ai/terms">Terms</a> •
+    <a href="LICENSE">License</a>
   </p>
 </div>
